@@ -1,4 +1,4 @@
-###  <h1> 👋 Hi, I'm Bùi Văn Đồng - Sinh Viên Đại Học Nha Trang🔥  <a href="https://profile-forme.surge.sh" target="_blank"></a> </h1>
+###  <h2> 👋 Hi, I'm Bùi Văn Đồng - Sinh Viên Đại Học Nha Trang🔥  <a href="https://profile-forme.surge.sh" target="_blank"></a> </h2>
 ## 💫About Me :
 - 🎓 I am currently a 3rd year student studying at Nha Trang University
 - 😍 My hobbies are coding, reading, and cooking.
