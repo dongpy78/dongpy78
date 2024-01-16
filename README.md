@@ -1,19 +1,8 @@
 ###  <h1> 👋 Hi, I'm Bùi Văn Đồng - Sinh Viên Đại Học Nha Trang🔥  <a href="https://profile-forme.surge.sh" target="_blank"></a> </h1>
-
-I hold a software engineering degree from Nha Trang University. I work as a Full-Stack Web Developer at a software company and also teach programming to students.
-
-<img align ="right" src = "https://res.cloudinary.com/ecommerce2021/image/upload/v1663398918/profile-forme/avatar_ws0jhh.png" width="150" height="150">
-
-- 🎓 Graduated from Nha Trang University with an undergraduate degree.
-- 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
-- 📚 My notes of learning at [profile-forme.com](https://www.profile-forme.com) and GitHub.
-- 💬 Ask me about NodeJs | React | Database | System.
-- 😍 My hobbies are coding, reading, and cooking.
-- 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
-
 # 💫About Me :
-Tôi đang là sinh viên năm 3 học tại đại học Nha Trang
-
+- 🎓 I am currently a 3rd year student studying at Nha Trang University
+- 😍 My hobbies are coding, reading, and cooking.
+- 💌 Contact me at [itvandong78py@gmail.com](mailto:itvandong78py@gmail.com).
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vandong.ga/?locale=vi_VN) 
 
@@ -28,4 +17,4 @@ Tôi đang là sinh viên năm 3 học tại đại học Nha Trang
 [![](https://visitcount.itsvg.in/api?id=VanDong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-🌟 Nguyễn Tiến Tài
+🌟 Bùi Văn Đồng
