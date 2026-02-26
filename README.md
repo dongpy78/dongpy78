@@ -17,7 +17,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a web developer. 
-- 📚 My notes of learning at [https://info-me.io.vn/](https://info-me.io.vn/) and GitHub.
 - 😍 My hobbies are coding, reading, cooking, and play game.
 - 💌 Contact me at [itvandong78py@gmail.com](mailto:itvandong78py@gmail.com).
 
