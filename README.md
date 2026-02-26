@@ -30,17 +30,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats) -->
 
 <!-- activity graph heroku-app start -->
-<a href="https://vandong.website/">
-        <img src="https://github-readme-stats.vercel.app/api?username=dongpy78&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" width="48%" >
-</a>
 
-<a href="https://vandong.website/">
-        <img src="https://streak-stats.demolab.com?user=dongpy78&theme=tokyonight&hide_border=true" width="48%" >
-</a>
-
-<a href="https://vandong.website/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongpy78&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" >
-</a>
 
 </br>
 
