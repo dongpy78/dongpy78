@@ -22,7 +22,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 <b> Technologies I've been learning and using so far (in alphabetical order): </b>
 
-## 📑 Github Stats of me!
+
 
 <!-- ![Gist Card](https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight) -->
