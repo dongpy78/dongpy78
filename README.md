@@ -31,9 +31,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 <!-- activity graph heroku-app start -->
 
-
-</br>
-
 # 🚀 Programming Languages Showcase 🌟
 
 <!-- go run gif -->
